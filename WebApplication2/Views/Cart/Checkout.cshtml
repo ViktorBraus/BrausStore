@@ -1,0 +1,63 @@
+﻿@model Domain.Entities.ShippingDetails
+
+@{
+    ViewBag.Title = "BookStore: Форма замовлення";
+}
+<style>
+    .field-validation-error
+{
+    color: #f00;
+}
+.field-validation-valid
+{
+    display: none;
+}
+.input-validation-error 
+{
+    border: 1px solid #f00;
+    background-color: #fee;
+}
+.validation-summary-errors
+{
+    font-weight:bold;
+    color:#f00;
+}
+.validation-summary-valid
+{
+    display:none;
+}
+</style>
+
+<h2>Оформити замовлення</h2>
+<p>Будь ласка, введіть ваші контактні дані.</p>
+@using (Html.BeginForm())
+{
+
+    @Html.ValidationSummary();
+<h3>Ваші Дані</h3>
+<div class="form-group">
+    <label>Ім'я: </label>
+    @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+</div>
+<h3>Адреса доставки</h3>
+    foreach (var property in ViewData.ModelMetadata.Properties)
+    {
+        if (property.PropertyName != "Name" && property.PropertyName != "GiftWrap")
+        {
+        <div class="form-group">
+            <label>
+                @(property.DisplayName ?? property.PropertyName)
+            </label>
+            @Html.TextBox(property.PropertyName, null, new {@class="form-control" })
+        </div>
+        }
+    }
+<h3>Додаткові опції</h3>
+<div class="form-group">
+    @Html.EditorFor(x => x.GiftWrap)
+    <label>Використати подарункову упаковку? </label>
+</div>
+<div class="text-center">
+    <input class="btn btn-primary" type="submit" value="Обробити замовлення"/>
+</div>
+}

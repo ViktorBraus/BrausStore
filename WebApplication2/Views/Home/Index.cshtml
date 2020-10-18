@@ -1,0 +1,31 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<style>
+    #xx
+    {
+        width:283px;
+    }
+</style>
+<div class="jumbotron">
+    <div class="row">
+        <h1 align="center">BrausStore</h1>
+        <p align="center" class="lead">Вітаємо у книжковому магазині BrausStore</p>
+        <div id="x1" class="col-md-4">
+            <p align="justify" class="lead">Якщо ви вже здійснювали покупки в нашому магазині, то ви можете просто авторизуватись, натиснувши тут:</p>
+            <h1 align="center">
+                ⬇
+            </h1>
+            <h3 align="center"> @Html.ActionLink("Авторизація", "Login", "Account")</h3>
+        </div>
+        <div id="xx" class="col-md-4">
+        </div>
+        <div class="col-md-4">
+            <p align="justify" class="lead">Якщо ж ви - нова людина в нашому магазину, то ласкаво просимо на форму реєстрації. Ми раді вітати кожного нового клієнта:</p>
+            <h1 align="center" class="az">⬇</h1>
+            <h3 align="center">
+                @Html.ActionLink("Реєстрація", "Register", "Account")
+            </h3>
+        </div>
+    </div>
+</div>  

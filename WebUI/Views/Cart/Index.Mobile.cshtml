@@ -1,0 +1,57 @@
+﻿@model WebUI.Models.CartIndexViewModel
+
+@{
+    ViewBag.Title = "Ваша корзина";
+}
+<style>
+    .blet
+    {
+        font-size:16px;
+        color:white;
+        margin-top:5px;
+        margin-right:5px;
+    }
+</style>
+<div data-role="header">
+    <h2 text-align="left">@ViewBag.Title</h2>
+</div>
+<hr />
+<div role="main" class="ui-content">
+    <table data-role="table" id="cartTable" class="table">
+        <thead>
+            <tr>
+                <th class="text-right">Кількість</th>
+                <th class="text-right">Найменування</th>
+                <th class="text-right">Ціна</th>
+                <th class="text-right">Сума</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var line in Model.Cart.Lines)
+            {
+                <tr>
+                    <td class="text-center">@line.Quantity</td>
+                    <td class="text-left">@line.Book.Name - @line.Book.Author</td>
+                    <td class="text-right">@line.Book.Price.ToString("# грн")</td>
+                    <td class="text-right">@((line.Quantity * line.Book.Price).ToString("# грн"))</td>
+                    <td>
+                        @using (Html.BeginForm("DelFromCart", "Cart"))
+                        {
+                            @Html.Hidden("BookId", line.Book.BookId)
+                            @Html.HiddenFor(x => x.ReturnUrl)
+                            <input class="btn btn-sm btn-warning" type="submit" value="Удалить" />
+                            <hr />
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <div data-role="footer"align="right">
+        <p class="blet">Загалом: @Model.Cart.ComputeTotalValue().ToString("# грн")</p>
+        </div>
+    </div>
+<div data-role="navbar" align="center">
+    <a class="btn btn-primary" href="@Model.ReturnUrl">Продовжити покупки</a>
+    @Html.ActionLink("Оформити замовлення", "Checkout", null, new { @class = "btn btn-primary" })
+</div>

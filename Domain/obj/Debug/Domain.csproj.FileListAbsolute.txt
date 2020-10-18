@@ -1,0 +1,217 @@
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Domain.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Domain.pdb
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\ru\System.Web.Helpers.resources.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\MSI\source\repos\BookStore\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\MSI\source\repos\BookStore\Domain\obj\Debug\Domain.dll
+C:\Users\MSI\source\repos\BookStore\Domain\obj\Debug\Domain.pdb
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Domain.dll.config
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\EntityFramework.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\EntityFramework.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Authentication.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.Extensions.Identity.Core.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\System.Buffers.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\System.Memory.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\System.Security.AccessControl.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\System.Security.Permissions.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Authentication.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Authentication.Cookies.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.Extensions.Identity.Core.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\System.Buffers.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\System.Memory.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MSI\source\repos\BookStore\Domain\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\MSI\source\repos\BookStore\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Domain.dll.config
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Domain.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Domain.pdb
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\EntityFramework.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Authentication.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.Extensions.Identity.Core.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\System.Buffers.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\System.Memory.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\System.Security.AccessControl.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\System.Security.Permissions.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\EntityFramework.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Authentication.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Authentication.Cookies.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.Extensions.Identity.Core.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\System.Buffers.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\System.Memory.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\ru\System.Web.Helpers.resources.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\obj\Debug\Domain.dll
+C:\Users\MSI\Desktop\Универ\3 Курс\1 семестр\Asp.Net\BookStore\Domain\obj\Debug\Domain.pdb
